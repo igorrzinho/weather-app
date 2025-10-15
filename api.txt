@@ -1,0 +1,6 @@
+apikey - angular | b26d879332a732d43bbbe9d794da995c
+
+apikey - default | 9aef10806faa9e041ac7a1206e39976c
+
+
+url = https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=9aef10806faa9e041ac7a1206e39976c
