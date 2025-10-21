@@ -1,0 +1,8 @@
+services:
+  weather:
+    container_name: weatherapp
+    build:
+      dockerfile: Dockerfile
+      context: .
+    ports:
+      - 4200:4200
